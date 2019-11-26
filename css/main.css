@@ -2154,7 +2154,13 @@ span.stButton_gradient,
   margin: 18px 0;
   color: #fff;
 }
-
+#Formularz .klauzula p{
+  color: #fff;
+  font-size: 13px;
+  padding: 0 5px;
+  line-height: 1.1;
+  text-align: center;
+}
 .corporate-info .corporate-address {
   background-image: url("../images/contact-bg.png");
   background-position: left top;
